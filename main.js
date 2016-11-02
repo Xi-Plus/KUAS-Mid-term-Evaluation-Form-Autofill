@@ -1,6 +1,3 @@
-javascript:
-(function(){
-
 GridViewContent_RadioButtonList1_0_2_0.checked = true;
 GridViewContent_RadioButtonList1_1_0_1.checked = true;
 GridViewContent_RadioButtonList1_2_0_2.checked = true;
@@ -15,5 +12,3 @@ GridViewContent_RadioButtonList1_11_1_11.checked = true;
 GridViewContent_RadioButtonList1_12_1_12.checked = true;
 GridViewContent_RadioButtonList1_13_2_13.checked = true;
 ButtonSend.click();
-
-})();
